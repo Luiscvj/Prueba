@@ -1,4 +1,6 @@
 namespace Dominio.Interfaces;
 
-public interface IAutomovil : IRepositoryGenric<Automovil>
-{}
+public interface IAutomovil : IRepositoryGeneric<Automovil>
+{
+    
+}

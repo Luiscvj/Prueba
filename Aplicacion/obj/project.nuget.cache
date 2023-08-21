@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "+M5ZGfHG/86j9wbhTDnpUr+xFsIfupkDdT4Zd70VnmUKvQcjp3Szq8EGOap8sjnzkoEqeDW6fn6/p8Q+ztEItg==",
+  "dgSpecHash": "Y/bCpGiSiCtIc9d0uDdqj7KC5nhWI47NmLd1i2Xq7ND7uwwVchsEG542SvdyO4HLNfMgorC0KlPYtNRENQAPeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\luisc\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\itext\\8.0.1\\itext.8.0.1.nupkg.sha512",

@@ -1,6 +1,6 @@
 namespace Dominio.Interfaces;
 
-public interface IAlquiler : IRepositoryGenric<Alquiler>
+public interface IAlquiler : IRepositoryGeneric<Alquiler>
 {
     
 }

@@ -1,6 +1,6 @@
 namespace Dominio.Interfaces;
 
-public interface IReserva : IRepositoryGenric<Reserva>
+public interface IReserva : IRepositoryGeneric<Reserva>
 {
     
 }

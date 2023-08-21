@@ -1,6 +1,6 @@
 namespace Dominio.Interfaces;
 
-public interface IRegistro_Entrega : IRepositoryGenric<Registro_Entrega>
+public interface IRegistro_Entrega : IRepositoryGeneric<Registro_Entrega>
 {
     
 }

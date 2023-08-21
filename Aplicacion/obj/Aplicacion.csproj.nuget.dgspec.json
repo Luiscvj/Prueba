@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj": {}
+    "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj": {
+    "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\obj\\",
+        "outputPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj"
+              "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj"
+              "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
+    "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\obj\\",
+        "outputPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -105,6 +105,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "itext7.pdfhtml": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
@@ -127,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj": {
+    "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\obj\\",
+        "outputPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -149,8 +153,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj"
+              "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -165,27 +169,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.0.151, )"
-            },
             "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.10, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[7.0.0, )"
-            },
-            "itext7.pdfhtml": {
-              "target": "Package",
-              "version": "[5.0.1, )"
             }
           },
           "imports": [

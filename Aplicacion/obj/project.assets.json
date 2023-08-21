@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "Dapper/2.0.151": {
-        "type": "package",
-        "compile": {
-          "lib/net5.0/Dapper.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net5.0/Dapper.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "FluentValidation/11.7.1": {
         "type": "package",
         "compile": {
@@ -1585,7 +1572,8 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "FluentValidation.DependencyInjectionExtensions": "11.7.1",
-          "Microsoft.EntityFrameworkCore": "7.0.10"
+          "Microsoft.EntityFrameworkCore": "7.0.10",
+          "itext7.pdfhtml": "5.0.1"
         },
         "compile": {
           "bin/placeholder/Dominio.dll": {}
@@ -1598,11 +1586,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Dapper": "2.0.151",
           "Dominio": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.10",
-          "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
-          "itext7.pdfhtml": "5.0.1"
+          "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
         },
         "compile": {
           "bin/placeholder/Persistencia.dll": {}
@@ -1614,24 +1600,6 @@
     }
   },
   "libraries": {
-    "Dapper/2.0.151": {
-      "sha512": "mMcZgx1lim0/i1Ozu+lgnBM4GwNIHpCuxV6BV2ovsEfZAXRAq4jb6RIhxGDcVjtmXMLPpdp85jHPdDjBMMwejw==",
-      "type": "package",
-      "path": "dapper/2.0.151",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Dapper.png",
-        "dapper.2.0.151.nupkg.sha512",
-        "dapper.nuspec",
-        "lib/net461/Dapper.dll",
-        "lib/net461/Dapper.xml",
-        "lib/net5.0/Dapper.dll",
-        "lib/net5.0/Dapper.xml",
-        "lib/netstandard2.0/Dapper.dll",
-        "lib/netstandard2.0/Dapper.xml"
-      ]
-    },
     "FluentValidation/11.7.1": {
       "sha512": "w9Al4gls6iVGFbTd/NPOPlwzqDTghH+ntL4c4FYUatc+LeybpIwhYArLykZJP/VjF2n3ihj3ws+1yd7KR5lQlg==",
       "type": "package",
@@ -5233,11 +5201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
+      "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
       "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\obj\\",
+      "outputPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5252,11 +5220,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj"
+            "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
+              "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj"
+            "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj"
             }
           }
         }

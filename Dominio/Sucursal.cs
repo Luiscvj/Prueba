@@ -1,6 +1,6 @@
 public class Sucursal
 {
-    public int ID_Sucursal { get; set; }
+    public int   ID_Sucursal { get; set; }
     public string Nombre { get; set; }
     public string Direccion { get; set; }
     public string Telefono { get; set; }

@@ -1,6 +1,6 @@
 namespace Dominio.Interfaces;
 
-public interface IEmpleado : IRepositoryGenric<Empleado>
+public interface IEmpleado : IRepositoryGeneric<Empleado>
 {
     
 }
