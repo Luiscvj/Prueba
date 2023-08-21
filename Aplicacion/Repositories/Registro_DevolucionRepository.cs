@@ -1,7 +1,9 @@
+using Dominio.Interfaces;
+
 namespace Aplicacion.Repositories;
 
 
-public class Registro_DevolucionRepository : RepositoryGeneric<Registro_Devolucion>
+public class Registro_DevolucionRepository : RepositoryGeneric<Registro_Devolucion>,IRegistro_Devolucion
 {
      protected readonly TallerContext _context;
 

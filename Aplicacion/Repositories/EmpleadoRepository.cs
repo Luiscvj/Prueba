@@ -1,7 +1,9 @@
+using Dominio.Interfaces;
+
 namespace Aplicacion.Repositories;
 
 
-public class EmpleadoRepository : RepositoryGeneric<Empleado>
+public class EmpleadoRepository : RepositoryGeneric<Empleado>,IEmpleado
 {
      protected readonly TallerContext _context;
 

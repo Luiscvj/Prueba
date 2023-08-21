@@ -1,7 +1,9 @@
+using Dominio.Interfaces;
+
 namespace Aplicacion.Repositories;
 
 
-public class AlquilerRepository : RepositoryGeneric<Alquiler>
+public class AlquilerRepository : RepositoryGeneric<Alquiler>,IAlquiler
 {
      protected readonly TallerContext _context;
 

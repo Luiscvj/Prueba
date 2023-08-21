@@ -1,7 +1,9 @@
+using Dominio.Interfaces;
+
 namespace Aplicacion.Repositories;
 
 
-public class AutomovilRepository : RepositoryGeneric<Automovil>
+public class AutomovilRepository : RepositoryGeneric<Automovil>,IAutomovil
 {
      protected readonly TallerContext _context;
 

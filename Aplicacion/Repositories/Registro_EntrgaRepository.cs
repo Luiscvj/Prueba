@@ -1,7 +1,9 @@
+using Dominio.Interfaces;
+
 namespace Aplicacion.Repositories;
 
 
-public class Registro_EntregaRepository : RepositoryGeneric<Registro_Entrega>
+public class Registro_EntregaRepository : RepositoryGeneric<Registro_Entrega>,IRegistro_Entrega
 {
      protected readonly TallerContext _context;
 

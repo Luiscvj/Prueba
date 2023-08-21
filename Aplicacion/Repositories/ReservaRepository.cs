@@ -1,7 +1,9 @@
+using Dominio.Interfaces;
+
 namespace Aplicacion.Repositories;
 
 
-public class ReservaRepository : RepositoryGeneric<Reserva>
+public class ReservaRepository : RepositoryGeneric<Reserva>,IReserva
 {
      protected readonly TallerContext _context;
 

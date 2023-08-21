@@ -1,3 +1,4 @@
+using API.Extensions;
 using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 
@@ -14,6 +15,8 @@ builder.Services.AddDbContext<TallerContext>(options =>
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.ConfigureCors();
+builder.Services.AddAplicationServices();
 
 var app = builder.Build();
 
@@ -23,7 +26,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseCors("CorsPolicy");
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
