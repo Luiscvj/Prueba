@@ -121,6 +121,23 @@ public class SucursalController : BaseApiController
           return NoContent();
     }
 
+    [HttpPut("PutSucursal{id}")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
+
+    public async Task<ActionResult<SucursalDto>> Update(int id, [FromBody]SucursalDto sucursal)
+    {       
+            Sucursal  suc = _mapper.Map<Sucursal>(sucursal); 
+         _unitOfWork.Sucursales.Update(suc);
+         int num = await _unitOfWork.SaveChanges();
+
+         if(num == 0 )
+         {
+            return BadRequest();
+         }
+         return sucursal ;
+    }
+
 
     
 
