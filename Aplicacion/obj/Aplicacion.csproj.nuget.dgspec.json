@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj": {}
+    "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj": {
+    "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj"
+              "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj"
               },
-              "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -131,14 +131,14 @@
         }
       }
     },
-    "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -153,8 +153,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj"
+              "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Dominio\\Dominio.csproj"
               }
             }
           }

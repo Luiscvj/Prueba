@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pb+IAqIYrNWjpTQZrEAQ3cKSAO3VNoHXTYgriMiQm3Q5DtJbcpoHIfMN1k6H3gTxGHGzEyEbWeJKfyKz5P8Wnw==",
+  "dgSpecHash": "JWziASruGjBvwl36YZFC35yczUSGJE/7/oYDbm3/H9bxiy6li+QL4b/wXotZtpNv+eJPk01lAbUvipCBHI//aw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\luisc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\luisc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -12,6 +14,7 @@
     "C:\\Users\\luisc\\.nuget\\packages\\itext.pdfhtml\\5.0.1\\itext.pdfhtml.5.0.1.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\itext7.pdfhtml\\5.0.1\\itext7.pdfhtml.5.0.1.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\luisc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\1.1.0\\microsoft.dotnet.platformabstractions.1.1.0.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",

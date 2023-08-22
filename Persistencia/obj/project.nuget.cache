@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uwy5B688O/BGdtTCzbQCxM376Pf30y7WuwljltUeaxlGhxRCM8UxAjNe2aolonfSgwJ+cks/htdexJLx2s8hLw==",
+  "dgSpecHash": "PFwebRsmY/Mx5MIzZjSa8KeqPpxsBGLrxfmYjxEN5CxGUp7RzFNQIZ+DsondII8d5WmsU6JTlqS+EE4GIyrRTw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\luisc\\OneDrive\\Documentos\\Practica\\Prueba\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luisc\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\luisc\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",

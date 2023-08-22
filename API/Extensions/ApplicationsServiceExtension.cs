@@ -14,8 +14,8 @@ public static class ApplicationsServiceExtension
             .AllowAnyHeader()
             .AllowAnyMethod()));
 
-    public static void AddAplicationServices( this IServiceCollection services )
-    {
-        services.AddScoped<IUnitOfWork, UnitOfWork>();
-    }
+   public static void AddAplicationServices(this IServiceCollection services)
+   {
+        services.AddScoped<IUnitOfWork,UnitOfWork>();
+   }
 }
